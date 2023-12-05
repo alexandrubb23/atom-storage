@@ -1,0 +1,30 @@
+{
+  "name": "atom-storage",
+  "version": "1.0.0",
+  "description": "atom-storage is a flexible and customizable JavaScript library for efficient data storage in web browsers, offering seamless integration with localStorage, sessionStorage, and MapStorage for easy management of browser-side data persistence.",
+  "main": "atom-web-storage-factory.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrubb23/atom-storage.git"
+  },
+  "keywords": [
+    "storage",
+    "localStorage",
+    "sessionStorage"
+  ],
+  "author": "Alexandru Barbulescu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandrubb23/atom-storage/issues"
+  },
+  "homepage": "https://github.com/alexandrubb23/atom-storage#readme",
+  "devDependencies": {
+    "typescript": "^5.3.2"
+  }
+}
